@@ -1,0 +1,1 @@
+This project aims to develop an arabic OCR 
