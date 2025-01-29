@@ -1,7 +1,6 @@
 flask
 numpy
 pandas
-flask
 pdf2image
 pytesseract
 pillow
