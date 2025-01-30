@@ -5,13 +5,6 @@
 - [Features](#features)
   - [OCR Training & Fine-Tuning](#ocr-training--fine-tuning)
   - [Administrator Report](#administrator-report)
-- [Installation & Setup](#installation--setup)
-- [Usage Guide](#usage-guide)
-- [Technical Requirements](#technical-requirements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact & Support](#contact--support)
-
 ---
 
 ## Project Overview
