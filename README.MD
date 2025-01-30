@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Features](#features)
   - [OCR Training & Fine-Tuning](#ocr-training--fine-tuning)
-  - [Administrator Report Interface](#administrator-report-interface)
+  - [Administrator Report](#administrator-report)
 - [Installation & Setup](#installation--setup)
 - [Usage Guide](#usage-guide)
 - [Technical Requirements](#technical-requirements)
@@ -15,19 +15,19 @@
 ---
 
 ## Project Overview
-This project enhances **OCR accuracy for Arabic text** by implementing a **fine-tuning and training pipeline** and providing an **Administrator Report Interface** for performance monitoring. It integrates **reCAPTCHA validation**, **user corrections**, and **bad word detection**, ensuring a **self-improving OCR model** for high-accuracy Arabic text recognition.
+This project enhances **OCR accuracy for Arabic text** by implementing a **fine-tuning and training pipeline** and providing an **Administrator Report** for performance monitoring. It integrates **reCAPTCHA validation**, **user corrections**, and **bad word detection**, ensuring a **self-improving OCR model** for high-accuracy Arabic text recognition.
 
 ---
 
 ## Features
 
 ### 📌 1. OCR Training & Fine-Tuning
- Fine-tunes the OCR model using **a diverse Arabic dataset** (printed, handwritten, mixed styles).  
+ Fine-tunes the OCR model using **a diverse Arabic dataset** (printed, handwritten, multiple fonts).  
  Improves **Character Error Rate (CER) and Word Error Rate (WER) by at least 10%**.  
  Stores **version-controlled models**, preventing data loss.  
  Generates **performance reports** tracking improvements.  
 
-### 📌 2. Administrator Report Interface
+### 📌 2. Administrator Report
  Displays **real-time OCR performance metrics** (confidence levels, accuracy trends, flagged words).  
  Supports **filtering by date, confidence levels, and document types**.  
  Enables **PDF/CSV report downloads** with pagination.  
