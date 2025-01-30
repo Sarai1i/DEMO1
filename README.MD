@@ -1,1 +1,2 @@
-This project aims to develop an arabic OCR 
+#RAQIM
+This project aims to enhance OCR (Optical Character Recognition) accuracy for Arabic text by implementing a fine-tuning and training pipeline and providing an Administrator Report Interface for performance monitoring. The system enables OCR improvement through large-scale dataset training, tracks extracted text statistics, and ensures transparent reporting with bad word detection and data analysis tools.
