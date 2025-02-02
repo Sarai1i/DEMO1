@@ -22,5 +22,4 @@ Our project enhances OCR accuracy for Arabic text by implementing a fine-tuning 
 ### 2. Administrator Report
  Displays OCR performance metrics (confidence levels, accuracy trends, flagged words).  
  Supports filtering by date, confidence levels, and document types.  
- Enables PDF report downloads with pagination.  
----
+ Enables PDF report downloads with pagination.
