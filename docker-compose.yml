@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  backend:
+    build: ./Backend
+    ports:
+      - "5000:5000"
+    restart: always  # إعادة تشغيل الحاوية إذا تعطلت
+    depends_on:
+      mongo:
+        condition: service_healthy  # ✅ تأكد أن MongoDB جاهز قبل تشغيل Backend
+    environment:
+      - FLASK_ENV=development
+      - MONGO_URI=mongodb://mongo:27017/ocr_database
+
+  frontend:
+    build: ./my-app
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+  mongo:
+    image: mongo:latest
+    container_name: mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:  # ✅ أضف فحص الصحة
+      test: echo 'db.runCommand("ping").ok' | mongosh --quiet mongodb:27017/test
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  mongo_data:

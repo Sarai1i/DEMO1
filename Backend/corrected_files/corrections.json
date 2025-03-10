@@ -1,0 +1,6055 @@
+[
+    {
+        "page_number": 1,
+        "original_image": "original_page_1.png",
+        "highlighted_image": "highlighted_page_1.png",
+        "text": [
+            {
+                "word": "كلمة",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 785,
+                    "y": 218,
+                    "w": 67,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المركز",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 702,
+                    "y": 218,
+                    "w": 67,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1228,
+                    "y": 331,
+                    "w": 73,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مسؤولية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1114,
+                    "y": 331,
+                    "w": 103,
+                    "h": 47,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الجميع»",
+                "confidence": 85,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1012,
+                    "y": 331,
+                    "w": 88,
+                    "h": 53,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وليست",
+                "confidence": 75,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 900,
+                    "y": 331,
+                    "w": 92,
+                    "h": 47,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وظيفة",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 812,
+                    "y": 331,
+                    "w": 73,
+                    "h": 47,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "فرد",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 765,
+                    "y": 335,
+                    "w": 36,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أو",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 723,
+                    "y": 330,
+                    "w": 25,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مؤ",
+                "confidence": 42,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 675,
+                    "y": 336,
+                    "w": 35,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ستة.",
+                "confidence": 46,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 606,
+                    "y": 336,
+                    "w": 65,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "هذه",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 538,
+                    "y": 332,
+                    "w": 51,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "هي",
+                "confidence": 95,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 477,
+                    "y": 334,
+                    "w": 43,
+                    "h": 50,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الرؤية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 398,
+                    "y": 331,
+                    "w": 65,
+                    "h": 47,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التي",
+                "confidence": 78,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 339,
+                    "y": 331,
+                    "w": 45,
+                    "h": 53,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "يتحرك",
+                "confidence": 78,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 252,
+                    "y": 331,
+                    "w": 80,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المركز",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1345,
+                    "y": 421,
+                    "w": 57,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وفقها",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1266,
+                    "y": 424,
+                    "w": 64,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1228,
+                    "y": 426,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "جميع",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1155,
+                    "y": 431,
+                    "w": 57,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "برامجه",
+                "confidence": 73,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1082,
+                    "y": 425,
+                    "w": 58,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وأنشطته",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 969,
+                    "y": 416,
+                    "w": 97,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العلمية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 874,
+                    "y": 421,
+                    "w": 79,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "والتنفيذية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 748,
+                    "y": 421,
+                    "w": 110,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "داخل",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 664,
+                    "y": 423,
+                    "w": 68,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البلاد",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 587,
+                    "y": 421,
+                    "w": 63,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 502,
+                    "y": 421,
+                    "w": 69,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وخارجها.",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 371,
+                    "y": 424,
+                    "w": 115,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وتتنوع",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1228,
+                    "y": 542,
+                    "w": 74,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "برامج",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1145,
+                    "y": 539,
+                    "w": 61,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المركز",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1068,
+                    "y": 535,
+                    "w": 57,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التي",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1007,
+                    "y": 535,
+                    "w": 41,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ينفذها",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 910,
+                    "y": 536,
+                    "w": 78,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مستقلاً",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 800,
+                    "y": 529,
+                    "w": 90,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أو",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 757,
+                    "y": 530,
+                    "w": 25,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بالتعاون",
+                "confidence": 88,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 643,
+                    "y": 535,
+                    "w": 92,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مع",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 589,
+                    "y": 550,
+                    "w": 33,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "شركائه",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 493,
+                    "y": 535,
+                    "w": 75,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المميزين.",
+                "confidence": 72,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 374,
+                    "y": 535,
+                    "w": 98,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إذ",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 330,
+                    "y": 538,
+                    "w": 22,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "AE",
+                "confidence": 62,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 250,
+                    "y": 544,
+                    "w": 59,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المركز",
+                "confidence": 76,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1345,
+                    "y": 621,
+                    "w": 56,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بقيمة",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1261,
+                    "y": 625,
+                    "w": 61,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العمل",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1170,
+                    "y": 621,
+                    "w": 70,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المشترك",
+                "confidence": 65,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1053,
+                    "y": 621,
+                    "w": 97,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ويدرك",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 955,
+                    "y": 621,
+                    "w": 74,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مآزقه",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 874,
+                    "y": 620,
+                    "w": 60,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التنظيمية»",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 736,
+                    "y": 621,
+                    "w": 116,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ولكنه",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 646,
+                    "y": 617,
+                    "w": 66,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ينشط",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 554,
+                    "y": 622,
+                    "w": 71,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 511,
+                    "y": 626,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التنظير",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 411,
+                    "y": 621,
+                    "w": 77,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لذلك»",
+                "confidence": 88,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 312,
+                    "y": 621,
+                    "w": 79,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "Bo",
+                "confidence": 28,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 253,
+                    "y": 626,
+                    "w": 35,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تفعيله",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1332,
+                    "y": 708,
+                    "w": 70,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "على",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1265,
+                    "y": 708,
+                    "w": 50,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مستوى",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1157,
+                    "y": 718,
+                    "w": 89,
+                    "h": 28,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الواقع»",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1064,
+                    "y": 707,
+                    "w": 75,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إضافة",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 975,
+                    "y": 710,
+                    "w": 70,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إلى",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 925,
+                    "y": 708,
+                    "w": 32,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أنه",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 877,
+                    "y": 702,
+                    "w": 30,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "يجتهد",
+                "confidence": 79,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 793,
+                    "y": 713,
+                    "w": 66,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 752,
+                    "y": 712,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "رصد",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 677,
+                    "y": 715,
+                    "w": 55,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "حركة",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 600,
+                    "y": 707,
+                    "w": 56,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اللغة",
+                "confidence": 88,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 530,
+                    "y": 707,
+                    "w": 51,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 442,
+                    "y": 707,
+                    "w": 70,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ومؤسساتها",
+                "confidence": 88,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 294,
+                    "y": 707,
+                    "w": 129,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 253,
+                    "y": 712,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العالمي",
+                "confidence": 47,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1336,
+                    "y": 792,
+                    "w": 65,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "والسعي",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1228,
+                    "y": 793,
+                    "w": 89,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إلى",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1180,
+                    "y": 794,
+                    "w": 32,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تنشيط",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1082,
+                    "y": 794,
+                    "w": 81,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العمل",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 996,
+                    "y": 793,
+                    "w": 70,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 958,
+                    "y": 798,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المجالات",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 845,
+                    "y": 792,
+                    "w": 95,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التي",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 787,
+                    "y": 793,
+                    "w": 41,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لم",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 759,
+                    "y": 792,
+                    "w": 12,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تحظ",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 693,
+                    "y": 791,
+                    "w": 50,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بمزيد",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 627,
+                    "y": 801,
+                    "w": 50,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "من",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 574,
+                    "y": 808,
+                    "w": 36,
+                    "h": 25,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العمل»",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 479,
+                    "y": 793,
+                    "w": 80,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وهو",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 413,
+                    "y": 805,
+                    "w": 46,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "يؤمن",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 339,
+                    "y": 802,
+                    "w": 58,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بوجود",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 252,
+                    "y": 805,
+                    "w": 69,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "فرص",
+                "confidence": 97,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1356,
+                    "y": 873,
+                    "w": 47,
+                    "h": 59,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "كبيرة",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1275,
+                    "y": 873,
+                    "w": 67,
+                    "h": 59,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ما",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1237,
+                    "y": 882,
+                    "w": 22,
+                    "h": 24,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "زالت",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1164,
+                    "y": 879,
+                    "w": 57,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تحتاج",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1085,
+                    "y": 877,
+                    "w": 63,
+                    "h": 48,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إلى",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1040,
+                    "y": 880,
+                    "w": 32,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تضافر",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 950,
+                    "y": 882,
+                    "w": 74,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الجهود.",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 848,
+                    "y": 879,
+                    "w": 87,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ويصدر",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1216,
+                    "y": 1000,
+                    "w": 86,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "هذا",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1151,
+                    "y": 993,
+                    "w": 42,
+                    "h": 26,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العدد",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1065,
+                    "y": 992,
+                    "w": 62,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الجديد",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 965,
+                    "y": 992,
+                    "w": 77,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "من",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 906,
+                    "y": 1007,
+                    "w": 36,
+                    "h": 25,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مجلة",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 841,
+                    "y": 993,
+                    "w": 44,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "\"اللسانيات",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 681,
+                    "y": 989,
+                    "w": 135,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية\"",
+                "confidence": 88,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 575,
+                    "y": 989,
+                    "w": 83,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "متضمناً",
+                "confidence": 84,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 459,
+                    "y": 984,
+                    "w": 92,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "حزمة",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 378,
+                    "y": 998,
+                    "w": 59,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مميزة",
+                "confidence": 80,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 309,
+                    "y": 997,
+                    "w": 45,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "من",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 250,
+                    "y": 1007,
+                    "w": 36,
+                    "h": 25,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البحوث",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1305,
+                    "y": 1078,
+                    "w": 97,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العلمية",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1204,
+                    "y": 1078,
+                    "w": 79,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التي",
+                "confidence": 85,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1141,
+                    "y": 1078,
+                    "w": 41,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تبه",
+                "confidence": 39,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1063,
+                    "y": 1078,
+                    "w": 59,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "موضوعات",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 911,
+                    "y": 1081,
+                    "w": 132,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "غاية",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 840,
+                    "y": 1081,
+                    "w": 50,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 796,
+                    "y": 1083,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأهمية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 699,
+                    "y": 1073,
+                    "w": 74,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لتكمل",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 595,
+                    "y": 1074,
+                    "w": 82,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بما",
+                "confidence": 84,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 548,
+                    "y": 1081,
+                    "w": 27,
+                    "h": 28,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المجلة",
+                "confidence": 81,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 475,
+                    "y": 1077,
+                    "w": 52,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مسيرتهما",
+                "confidence": 70,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 367,
+                    "y": 1078,
+                    "w": 86,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العلمية»",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 254,
+                    "y": 1078,
+                    "w": 91,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وليتكامل",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1291,
+                    "y": 1160,
+                    "w": 111,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العدد",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1216,
+                    "y": 1164,
+                    "w": 62,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مع",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1167,
+                    "y": 1179,
+                    "w": 34,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "برامج",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1090,
+                    "y": 1168,
+                    "w": 62,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المركز",
+                "confidence": 85,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1018,
+                    "y": 1164,
+                    "w": 57,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ومساراته",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 901,
+                    "y": 1167,
+                    "w": 102,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأخرى.",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 785,
+                    "y": 1159,
+                    "w": 100,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "فقد",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 724,
+                    "y": 1168,
+                    "w": 42,
+                    "h": 23,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "افتتح",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 649,
+                    "y": 1168,
+                    "w": 60,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "-",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 614,
+                    "y": 1181,
+                    "w": 18,
+                    "h": 2,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مؤخراً",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 531,
+                    "y": 1157,
+                    "w": 69,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "-",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 499,
+                    "y": 1181,
+                    "w": 18,
+                    "h": 2,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مركز",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 432,
+                    "y": 1164,
+                    "w": 52,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الاستعراب",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 291,
+                    "y": 1164,
+                    "w": 126,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 253,
+                    "y": 1169,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وأذربيجان",
+                "confidence": 18,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1281,
+                    "y": 1245,
+                    "w": 122,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وأكمل",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1179,
+                    "y": 1245,
+                    "w": 84,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "برامجه",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1105,
+                    "y": 1254,
+                    "w": 58,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التدريبية",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 996,
+                    "y": 1250,
+                    "w": 93,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 957,
+                    "y": 1255,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إفريقيا.",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 860,
+                    "y": 1250,
+                    "w": 81,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "كما",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 801,
+                    "y": 1241,
+                    "w": 37,
+                    "h": 58,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أنجز",
+                "confidence": 69,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 738,
+                    "y": 1245,
+                    "w": 46,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المرحلة",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 648,
+                    "y": 1250,
+                    "w": 75,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأولى",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 566,
+                    "y": 1245,
+                    "w": 66,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "من",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 514,
+                    "y": 1265,
+                    "w": 36,
+                    "h": 25,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "برنامجه",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 427,
+                    "y": 1253,
+                    "w": 71,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مع",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 378,
+                    "y": 1265,
+                    "w": 34,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اليونسكو",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 251,
+                    "y": 1246,
+                    "w": 113,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "حول",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1344,
+                    "y": 1335,
+                    "w": 56,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اللغة",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1277,
+                    "y": 1336,
+                    "w": 51,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1191,
+                    "y": 1336,
+                    "w": 69,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "والرياض؛",
+                "confidence": 80,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1068,
+                    "y": 1336,
+                    "w": 106,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وأطلق",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 977,
+                    "y": 1331,
+                    "w": 72,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "برنامج",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 885,
+                    "y": 1339,
+                    "w": 74,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الترجمة",
+                "confidence": 84,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 797,
+                    "y": 1336,
+                    "w": 73,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بصدور",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 695,
+                    "y": 1344,
+                    "w": 84,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "دليل",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 625,
+                    "y": 1336,
+                    "w": 54,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اللسانيات",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 489,
+                    "y": 1336,
+                    "w": 122,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الحاسوبية.",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 354,
+                    "y": 1336,
+                    "w": 119,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وأصدر",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 251,
+                    "y": 1331,
+                    "w": 83,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المركز",
+                "confidence": 77,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1346,
+                    "y": 1422,
+                    "w": 56,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العدد",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1266,
+                    "y": 1422,
+                    "w": 62,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأول",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1185,
+                    "y": 1417,
+                    "w": 63,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "من",
+                "confidence": 97,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1132,
+                    "y": 1437,
+                    "w": 36,
+                    "h": 25,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "dle‏",
+                "confidence": 47,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1072,
+                    "y": 1423,
+                    "w": 44,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تعليم",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 997,
+                    "y": 1423,
+                    "w": 58,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 911,
+                    "y": 1422,
+                    "w": 69,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لغة",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 859,
+                    "y": 1422,
+                    "w": 34,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ثانية؛",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 781,
+                    "y": 1425,
+                    "w": 59,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إضافة",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 691,
+                    "y": 1425,
+                    "w": 70,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إلى",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 643,
+                    "y": 1423,
+                    "w": 32,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تدريب",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 544,
+                    "y": 1429,
+                    "w": 81,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الموفدين",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 431,
+                    "y": 1422,
+                    "w": 95,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "السعوديين",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 293,
+                    "y": 1422,
+                    "w": 123,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 253,
+                    "y": 1427,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الخارج»",
+                "confidence": 88,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1318,
+                    "y": 1508,
+                    "w": 84,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ونقل",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1238,
+                    "y": 1510,
+                    "w": 58,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تحربة",
+                "confidence": 79,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1168,
+                    "y": 1506,
+                    "w": 53,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ترجمة",
+                "confidence": 84,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1091,
+                    "y": 1514,
+                    "w": 59,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مصطلحات",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 928,
+                    "y": 1508,
+                    "w": 145,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "النقل",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 848,
+                    "y": 1508,
+                    "w": 61,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأرضي",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 740,
+                    "y": 1503,
+                    "w": 91,
+                    "h": 50,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إلى",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 689,
+                    "y": 1509,
+                    "w": 32,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مدن",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 617,
+                    "y": 1513,
+                    "w": 53,
+                    "h": 24,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وأخرى",
+                "confidence": 66,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 518,
+                    "y": 1503,
+                    "w": 81,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وشرع",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 432,
+                    "y": 1514,
+                    "w": 64,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 391,
+                    "y": 1513,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العمل",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 300,
+                    "y": 1508,
+                    "w": 70,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مع",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 250,
+                    "y": 1523,
+                    "w": 33,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اليونسكو",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1292,
+                    "y": 1585,
+                    "w": 110,
+                    "h": 58,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "على",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1230,
+                    "y": 1585,
+                    "w": 48,
+                    "h": 58,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إعداد",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1141,
+                    "y": 1598,
+                    "w": 66,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أطلس",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1049,
+                    "y": 1589,
+                    "w": 75,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "للغات؛",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 947,
+                    "y": 1594,
+                    "w": 86,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "واستكمل",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 810,
+                    "y": 1590,
+                    "w": 117,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مراحل",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 717,
+                    "y": 1596,
+                    "w": 79,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العمل",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 632,
+                    "y": 1594,
+                    "w": 70,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 594,
+                    "y": 1599,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "برنامج",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 500,
+                    "y": 1597,
+                    "w": 74,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المركز",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 427,
+                    "y": 1594,
+                    "w": 57,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الرئيس",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 333,
+                    "y": 1594,
+                    "w": 78,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "(اللغة",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 252,
+                    "y": 1593,
+                    "w": 64,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1332,
+                    "y": 1680,
+                    "w": 70,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1291,
+                    "y": 1685,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العالم)",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1204,
+                    "y": 1679,
+                    "w": 67,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بصدور",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1100,
+                    "y": 1688,
+                    "w": 83,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأجزاء",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 999,
+                    "y": 1675,
+                    "w": 83,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الخاصة",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 897,
+                    "y": 1680,
+                    "w": 82,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "باللغة",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 816,
+                    "y": 1680,
+                    "w": 62,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية",
+                "confidence": 78,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 727,
+                    "y": 1680,
+                    "w": 70,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 686,
+                    "y": 1671,
+                    "w": 24,
+                    "h": 63,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "كوريا",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 610,
+                    "y": 1680,
+                    "w": 97,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وبوركينا",
+                "confidence": 70,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 507,
+                    "y": 1680,
+                    "w": 85,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "فاسو",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 427,
+                    "y": 1683,
+                    "w": 61,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وبروناي.",
+                "confidence": 78,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 304,
+                    "y": 1683,
+                    "w": 105,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إلى",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 253,
+                    "y": 1681,
+                    "w": 31,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "غير",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1363,
+                    "y": 1769,
+                    "w": 40,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ذلك",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1301,
+                    "y": 1762,
+                    "w": 44,
+                    "h": 53,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "من",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1258,
+                    "y": 1762,
+                    "w": 28,
+                    "h": 53,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البرامج.",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1140,
+                    "y": 1766,
+                    "w": 208,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "هذا",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1261,
+                    "y": 1881,
+                    "w": 41,
+                    "h": 26,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وإلى",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1198,
+                    "y": 1881,
+                    "w": 45,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "عدد",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1129,
+                    "y": 1888,
+                    "w": 52,
+                    "h": 19,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "قادم",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1064,
+                    "y": 1883,
+                    "w": 49,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "call!",
+                "confidence": 23,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 936,
+                    "y": 1876,
+                    "w": 41,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "OSL",
+                "confidence": 78,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 994,
+                    "y": 1883,
+                    "w": 52,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مع",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 884,
+                    "y": 1895,
+                    "w": 34,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "شكر",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 808,
+                    "y": 1876,
+                    "w": 60,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "دائم",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 746,
+                    "y": 1884,
+                    "w": 46,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "طيئة",
+                "confidence": 82,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 683,
+                    "y": 1880,
+                    "w": 47,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التحرير",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 582,
+                    "y": 1880,
+                    "w": 84,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "على",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 517,
+                    "y": 1881,
+                    "w": 50,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "جهودها",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 402,
+                    "y": 1883,
+                    "w": 96,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المستمرة",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 292,
+                    "y": 1880,
+                    "w": 93,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 253,
+                    "y": 1885,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "متابعة",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1333,
+                    "y": 1969,
+                    "w": 70,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العمل»",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1232,
+                    "y": 1966,
+                    "w": 80,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وشكر",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1133,
+                    "y": 1962,
+                    "w": 75,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "متصل",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1038,
+                    "y": 1968,
+                    "w": 75,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "للباحثين»",
+                "confidence": 88,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 907,
+                    "y": 1966,
+                    "w": 111,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ودعوة",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 813,
+                    "y": 1971,
+                    "w": 70,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ملحة",
+                "confidence": 77,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 729,
+                    "y": 1966,
+                    "w": 63,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إلى",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 677,
+                    "y": 1967,
+                    "w": 32,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "جميع",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 598,
+                    "y": 1976,
+                    "w": 56,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الباحثين",
+                "confidence": 84,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 481,
+                    "y": 1966,
+                    "w": 97,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وللمختصين",
+                "confidence": 77,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 334,
+                    "y": 1966,
+                    "w": 126,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لإثراء",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 253,
+                    "y": 1966,
+                    "w": 60,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المجلة",
+                "confidence": 5,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1350,
+                    "y": 2050,
+                    "w": 52,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بأبحائهم",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1241,
+                    "y": 2054,
+                    "w": 92,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العلمية.",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1136,
+                    "y": 2051,
+                    "w": 90,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            }
+        ]
+    },
+    {
+        "page_number": 2,
+        "original_image": "original_page_2.png",
+        "highlighted_image": "highlighted_page_2.png",
+        "text": [
+            {
+                "word": "عبد",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 498,
+                    "y": 226,
+                    "w": 47,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الله",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 450,
+                    "y": 213,
+                    "w": 33,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الوثمي",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 355,
+                    "y": 215,
+                    "w": 80,
+                    "h": 51,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المشرف",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 520,
+                    "y": 331,
+                    "w": 97,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العام",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 447,
+                    "y": 335,
+                    "w": 56,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "على",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 379,
+                    "y": 336,
+                    "w": 54,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اااااااااااااااااا",
+                "confidence": 33,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 307,
+                    "y": 333,
+                    "w": 57,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            }
+        ]
+    },
+    {
+        "page_number": 3,
+        "original_image": "original_page_3.png",
+        "highlighted_image": "highlighted_page_3.png",
+        "text": [
+            {
+                "word": "مقدمة",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 769,
+                    "y": 226,
+                    "w": 104,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "يصدر",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1239,
+                    "y": 337,
+                    "w": 73,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "هذا",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1183,
+                    "y": 330,
+                    "w": 41,
+                    "h": 26,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "سوف.",
+                "confidence": 40,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1105,
+                    "y": 326,
+                    "w": 62,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "من",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1053,
+                    "y": 344,
+                    "w": 36,
+                    "h": 25,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لا يوجد نص أصلي.",
+                "confidence": 72,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 996,
+                    "y": 320,
+                    "w": 44,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اللسانيات",
+                "confidence": 71,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 835,
+                    "y": 316,
+                    "w": 144,
+                    "h": 52,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية)»",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 716,
+                    "y": 327,
+                    "w": 102,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "امتدادًا",
+                "confidence": 82,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 620,
+                    "y": 327,
+                    "w": 78,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "للأعداد",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 513,
+                    "y": 324,
+                    "w": 91,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "السابقة",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 410,
+                    "y": 329,
+                    "w": 87,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "cal‏",
+                "confidence": 73,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 364,
+                    "y": 329,
+                    "w": 30,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ومكملاً",
+                "confidence": 64,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 250,
+                    "y": 322,
+                    "w": 95,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لها",
+                "confidence": 63,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1366,
+                    "y": 415,
+                    "w": 24,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "من",
+                "confidence": 95,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1313,
+                    "y": 430,
+                    "w": 36,
+                    "h": 25,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "حيث",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1231,
+                    "y": 422,
+                    "w": 65,
+                    "h": 28,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بالتنويع",
+                "confidence": 62,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1147,
+                    "y": 413,
+                    "w": 67,
+                    "h": 47,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 86,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1108,
+                    "y": 420,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الموضوعات",
+                "confidence": 45,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 941,
+                    "y": 415,
+                    "w": 149,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وأساليب",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 817,
+                    "y": 410,
+                    "w": 104,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لا يوجد خطأ في النص.",
+                "confidence": 50,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 768,
+                    "y": 406,
+                    "w": 31,
+                    "h": 65,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "2",
+                "confidence": 50,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 735,
+                    "y": 423,
+                    "w": 22,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "والتحليل",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 598,
+                    "y": 415,
+                    "w": 104,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "والتطبيق»",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 473,
+                    "y": 415,
+                    "w": 109,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مع",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 420,
+                    "y": 430,
+                    "w": 34,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "احافظة",
+                "confidence": 51,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 319,
+                    "y": 414,
+                    "w": 86,
+                    "h": 28,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "على",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 252,
+                    "y": 416,
+                    "w": 50,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأسس",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1302,
+                    "y": 496,
+                    "w": 89,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التي",
+                "confidence": 77,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1236,
+                    "y": 501,
+                    "w": 41,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اعتمدت",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1107,
+                    "y": 505,
+                    "w": 105,
+                    "h": 24,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "عليها",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1018,
+                    "y": 502,
+                    "w": 64,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المجلة.",
+                "confidence": 62,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 928,
+                    "y": 500,
+                    "w": 64,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وهي",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 848,
+                    "y": 513,
+                    "w": 51,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المع",
+                "confidence": 0,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 753,
+                    "y": 501,
+                    "w": 69,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بين",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 691,
+                    "y": 512,
+                    "w": 36,
+                    "h": 24,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "DLW",
+                "confidence": 33,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 577,
+                    "y": 494,
+                    "w": 89,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "والمعاصرة",
+                "confidence": 71,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 433,
+                    "y": 501,
+                    "w": 118,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وبين",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 354,
+                    "y": 512,
+                    "w": 51,
+                    "h": 28,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "النظرية",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 252,
+                    "y": 501,
+                    "w": 77,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "والتطبيق»",
+                "confidence": 82,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1282,
+                    "y": 587,
+                    "w": 108,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بما",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1241,
+                    "y": 569,
+                    "w": 32,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "GH‏",
+                "confidence": 55,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1171,
+                    "y": 569,
+                    "w": 42,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مع",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1124,
+                    "y": 569,
+                    "w": 28,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "طبيعة",
+                "confidence": 56,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1039,
+                    "y": 569,
+                    "w": 68,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لغتنا",
+                "confidence": 57,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 967,
+                    "y": 569,
+                    "w": 63,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية.",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 874,
+                    "y": 569,
+                    "w": 80,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وقد",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 812,
+                    "y": 591,
+                    "w": 41,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "byt",
+                "confidence": 31,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 655,
+                    "y": 569,
+                    "w": 60,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "oS‏",
+                "confidence": 25,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 734,
+                    "y": 583,
+                    "w": 60,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "هذا",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 593,
+                    "y": 569,
+                    "w": 46,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العدد",
+                "confidence": 59,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 512,
+                    "y": 569,
+                    "w": 59,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ترتيبًا",
+                "confidence": 43,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 431,
+                    "y": 569,
+                    "w": 68,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "Ga‏",
+                "confidence": 29,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 373,
+                    "y": 569,
+                    "w": 36,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مع",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 319,
+                    "y": 569,
+                    "w": 32,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تنقع",
+                "confidence": 53,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 251,
+                    "y": 569,
+                    "w": 55,
+                    "h": 72,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ولد",
+                "confidence": 22,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1168,
+                    "y": 664,
+                    "w": 134,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "gy)",
+                "confidence": 24,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1337,
+                    "y": 665,
+                    "w": 54,
+                    "h": 53,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "كاللسانياث",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 990,
+                    "y": 671,
+                    "w": 149,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العامّة»",
+                "confidence": 85,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 876,
+                    "y": 673,
+                    "w": 78,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "واللسانيات",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 704,
+                    "y": 673,
+                    "w": 134,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الإدراكية»",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 553,
+                    "y": 673,
+                    "w": 115,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ولسانيات",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 397,
+                    "y": 673,
+                    "w": 117,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الخطاب»",
+                "confidence": 78,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 254,
+                    "y": 673,
+                    "w": 107,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "واللسانيات",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1255,
+                    "y": 759,
+                    "w": 134,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الحاسبوبية",
+                "confidence": 70,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1114,
+                    "y": 759,
+                    "w": 121,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "واللسانيات",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 958,
+                    "y": 759,
+                    "w": 134,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "القضائية»",
+                "confidence": 85,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 827,
+                    "y": 759,
+                    "w": 111,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "واللسانيات",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 671,
+                    "y": 759,
+                    "w": 134,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "السياسية",
+                "confidence": 79,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 534,
+                    "y": 759,
+                    "w": 117,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "واللسانيات",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 378,
+                    "y": 759,
+                    "w": 134,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التدوالية.",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 255,
+                    "y": 759,
+                    "w": 104,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "فقد",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1348,
+                    "y": 849,
+                    "w": 42,
+                    "h": 23,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تناول",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1267,
+                    "y": 844,
+                    "w": 63,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البحث",
+                "confidence": 85,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1164,
+                    "y": 845,
+                    "w": 84,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأول",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1082,
+                    "y": 840,
+                    "w": 63,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بعض",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1000,
+                    "y": 853,
+                    "w": 61,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "السمات",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 880,
+                    "y": 845,
+                    "w": 101,
+                    "h": 28,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الجديدة",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 771,
+                    "y": 845,
+                    "w": 90,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "للفكر",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 681,
+                    "y": 841,
+                    "w": 71,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البساسيري",
+                "confidence": 76,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 529,
+                    "y": 845,
+                    "w": 134,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وتناول",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 432,
+                    "y": 844,
+                    "w": 75,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البحث",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 330,
+                    "y": 845,
+                    "w": 83,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الثاني",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 253,
+                    "y": 845,
+                    "w": 58,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المبادئ",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1308,
+                    "y": 931,
+                    "w": 81,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العرفانية",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1201,
+                    "y": 931,
+                    "w": 91,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1161,
+                    "y": 936,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تعليم",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1086,
+                    "y": 932,
+                    "w": 59,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "النحوي",
+                "confidence": 36,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 992,
+                    "y": 931,
+                    "w": 78,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وتناول",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 897,
+                    "y": 930,
+                    "w": 75,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البحث",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 797,
+                    "y": 931,
+                    "w": 83,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الثالث",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 704,
+                    "y": 931,
+                    "w": 76,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الخصائص",
+                "confidence": 61,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 567,
+                    "y": 931,
+                    "w": 120,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التركيبية",
+                "confidence": 84,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 462,
+                    "y": 931,
+                    "w": 89,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "والدلالية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 347,
+                    "y": 931,
+                    "w": 98,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لأفعال",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 252,
+                    "y": 926,
+                    "w": 77,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الكلام»",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1302,
+                    "y": 1013,
+                    "w": 89,
+                    "h": 47,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وتناول",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1206,
+                    "y": 1016,
+                    "w": 76,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البحث",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1106,
+                    "y": 1017,
+                    "w": 83,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الرابع",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1028,
+                    "y": 1017,
+                    "w": 60,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ألفاظ",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 945,
+                    "y": 1012,
+                    "w": 68,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العنف",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 855,
+                    "y": 1017,
+                    "w": 74,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 816,
+                    "y": 1022,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "Beret!",
+                "confidence": 24,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 693,
+                    "y": 1017,
+                    "w": 104,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 606,
+                    "y": 1017,
+                    "w": 69,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 566,
+                    "y": 1022,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ضوء",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 495,
+                    "y": 1025,
+                    "w": 52,
+                    "h": 31,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لسانيات",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 373,
+                    "y": 1017,
+                    "w": 104,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المدوّنات",
+                "confidence": 84,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 251,
+                    "y": 1017,
+                    "w": 105,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اللغوية.",
+                "confidence": 54,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1303,
+                    "y": 1103,
+                    "w": 87,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أما",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1248,
+                    "y": 1098,
+                    "w": 31,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البحث",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1141,
+                    "y": 1103,
+                    "w": 83,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الخامس",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1026,
+                    "y": 1103,
+                    "w": 91,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "فهو",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 960,
+                    "y": 1107,
+                    "w": 44,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مشروع",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 854,
+                    "y": 1110,
+                    "w": 84,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "معجمي",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 736,
+                    "y": 1118,
+                    "w": 97,
+                    "h": 30,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "محوسب",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 620,
+                    "y": 1110,
+                    "w": 93,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لألفاظ",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 515,
+                    "y": 1098,
+                    "w": 81,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "Sly",
+                "confidence": 42,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 322,
+                    "y": 1099,
+                    "w": 83,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "CH‏",
+                "confidence": 53,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 429,
+                    "y": 1103,
+                    "w": 63,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وهو",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 251,
+                    "y": 1115,
+                    "w": 46,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "كسابقه»",
+                "confidence": 17,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1285,
+                    "y": 1189,
+                    "w": 107,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بحث",
+                "confidence": 82,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1211,
+                    "y": 1195,
+                    "w": 55,
+                    "h": 24,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1171,
+                    "y": 1194,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لسانيات",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1048,
+                    "y": 1189,
+                    "w": 105,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المدونات",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 927,
+                    "y": 1189,
+                    "w": 104,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اللغوية»",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 823,
+                    "y": 1189,
+                    "w": 87,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بيد",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 769,
+                    "y": 1197,
+                    "w": 33,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أنه",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 724,
+                    "y": 1184,
+                    "w": 29,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "مبني",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 657,
+                    "y": 1202,
+                    "w": 50,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "على",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 593,
+                    "y": 1190,
+                    "w": 50,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "عدد",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 525,
+                    "y": 1197,
+                    "w": 51,
+                    "h": 19,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "من",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 472,
+                    "y": 1204,
+                    "w": 36,
+                    "h": 25,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "المدوّنات",
+                "confidence": 85,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 352,
+                    "y": 1189,
+                    "w": 105,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية»",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 254,
+                    "y": 1189,
+                    "w": 81,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1368,
+                    "y": 1280,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "حين",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1296,
+                    "y": 1286,
+                    "w": 51,
+                    "h": 24,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تناول",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1217,
+                    "y": 1274,
+                    "w": 63,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "البحث",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1116,
+                    "y": 1275,
+                    "w": 83,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "السادس",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1000,
+                    "y": 1275,
+                    "w": 97,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "OUT‏",
+                "confidence": 73,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 912,
+                    "y": 1274,
+                    "w": 73,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الاحتراس",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 784,
+                    "y": 1275,
+                    "w": 111,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اللغوي",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 687,
+                    "y": 1275,
+                    "w": 80,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ف",
+                "confidence": 50,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 648,
+                    "y": 1280,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الصياغة",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 534,
+                    "y": 1275,
+                    "w": 94,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "القانونية»",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 411,
+                    "y": 1275,
+                    "w": 105,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وهو",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 345,
+                    "y": 1287,
+                    "w": 46,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "جانب",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 252,
+                    "y": 1278,
+                    "w": 74,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "جوانب",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1303,
+                    "y": 1365,
+                    "w": 84,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "اللسانيات",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1165,
+                    "y": 1361,
+                    "w": 122,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "القانونية",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1056,
+                    "y": 1361,
+                    "w": 93,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أو",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1016,
+                    "y": 1356,
+                    "w": 25,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "القضائية",
+                "confidence": 52,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 889,
+                    "y": 1361,
+                    "w": 112,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "Ul",
+                "confidence": 69,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 841,
+                    "y": 1356,
+                    "w": 31,
+                    "h": 32,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأخير",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 749,
+                    "y": 1356,
+                    "w": 76,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "فتناول",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 661,
+                    "y": 1360,
+                    "w": 73,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التفاعل",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 556,
+                    "y": 1361,
+                    "w": 89,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التداولي",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 454,
+                    "y": 1361,
+                    "w": 88,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التركيبي",
+                "confidence": 84,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 352,
+                    "y": 1361,
+                    "w": 85,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 316,
+                    "y": 1366,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أبنية",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 252,
+                    "y": 1356,
+                    "w": 48,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الاشتغال",
+                "confidence": 87,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1283,
+                    "y": 1445,
+                    "w": 108,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1245,
+                    "y": 1451,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "النحو",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1162,
+                    "y": 1446,
+                    "w": 67,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ap)‏",
+                "confidence": 7,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1070,
+                    "y": 1446,
+                    "w": 77,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وهيكة",
+                "confidence": 47,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1291,
+                    "y": 1538,
+                    "w": 60,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التحرير»",
+                "confidence": 69,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1179,
+                    "y": 1532,
+                    "w": 95,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إذ",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1140,
+                    "y": 1535,
+                    "w": 22,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "SON",
+                "confidence": 32,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1051,
+                    "y": 1519,
+                    "w": 74,
+                    "h": 51,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الزملاء",
+                "confidence": 40,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 957,
+                    "y": 1532,
+                    "w": 79,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الباحثين",
+                "confidence": 90,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 844,
+                    "y": 1532,
+                    "w": 97,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الذين",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 763,
+                    "y": 1532,
+                    "w": 65,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أسهموا",
+                "confidence": 36,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 663,
+                    "y": 1527,
+                    "w": 87,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 624,
+                    "y": 1537,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إخراج",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 536,
+                    "y": 1536,
+                    "w": 72,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "هذا",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 479,
+                    "y": 1533,
+                    "w": 41,
+                    "h": 26,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ode",
+                "confidence": 45,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 388,
+                    "y": 1532,
+                    "w": 74,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "فإنما",
+                "confidence": 80,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 321,
+                    "y": 1532,
+                    "w": 49,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "تأهّل",
+                "confidence": 24,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 250,
+                    "y": 1527,
+                    "w": 54,
+                    "h": 46,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أن",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1376,
+                    "y": 1613,
+                    "w": 27,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "pale",
+                "confidence": 26,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1282,
+                    "y": 1619,
+                    "w": 77,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "عطاؤهم",
+                "confidence": 11,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1159,
+                    "y": 1618,
+                    "w": 108,
+                    "h": 45,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "وأن",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1101,
+                    "y": 1613,
+                    "w": 38,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "يُسهم",
+                "confidence": 84,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1017,
+                    "y": 1619,
+                    "w": 66,
+                    "h": 44,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "زملاء",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 939,
+                    "y": 1620,
+                    "w": 61,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لا يوجد خطأ في النص.",
+                "confidence": 76,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 842,
+                    "y": 1623,
+                    "w": 30,
+                    "h": 34,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "ST‏",
+                "confidence": 56,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 892,
+                    "y": 1617,
+                    "w": 30,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "في",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 801,
+                    "y": 1623,
+                    "w": 21,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الأعداد",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 695,
+                    "y": 1613,
+                    "w": 88,
+                    "h": 33,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "القادمة.",
+                "confidence": 70,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 584,
+                    "y": 1618,
+                    "w": 94,
+                    "h": 37,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "خدمة",
+                "confidence": 34,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 494,
+                    "y": 1613,
+                    "w": 69,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "RU",
+                "confidence": 57,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 419,
+                    "y": 1618,
+                    "w": 59,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العربية»",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 320,
+                    "y": 1618,
+                    "w": 82,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "على",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 252,
+                    "y": 1619,
+                    "w": 50,
+                    "h": 40,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "لا يوجد خطأ في النص.",
+                "confidence": 71,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1303,
+                    "y": 1786,
+                    "w": 48,
+                    "h": 43,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "الموفق",
+                "confidence": 82,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1224,
+                    "y": 1790,
+                    "w": 65,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "والحادى",
+                "confidence": 40,
+                "highlighted": true,
+                "bounding_box": {
+                    "x": 1109,
+                    "y": 1790,
+                    "w": 100,
+                    "h": 39,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إلى",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 1060,
+                    "y": 1791,
+                    "w": 32,
+                    "h": 36,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "سواء",
+                "confidence": 89,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 989,
+                    "y": 1794,
+                    "w": 53,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "السبيل.",
+                "confidence": 91,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 883,
+                    "y": 1790,
+                    "w": 90,
+                    "h": 41,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "رئيس",
+                "confidence": 96,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 533,
+                    "y": 1880,
+                    "w": 70,
+                    "h": 38,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "التحرير",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 426,
+                    "y": 1876,
+                    "w": 92,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "أ.",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 750,
+                    "y": 1960,
+                    "w": 18,
+                    "h": 35,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "د.",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 706,
+                    "y": 1973,
+                    "w": 25,
+                    "h": 22,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "عبد",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 641,
+                    "y": 1971,
+                    "w": 47,
+                    "h": 29,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العزيز",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 555,
+                    "y": 1964,
+                    "w": 70,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "بن",
+                "confidence": 93,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 510,
+                    "y": 1979,
+                    "w": 30,
+                    "h": 27,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "إبراهيم",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 410,
+                    "y": 1969,
+                    "w": 86,
+                    "h": 42,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            },
+            {
+                "word": "العصيلي",
+                "confidence": 92,
+                "highlighted": false,
+                "bounding_box": {
+                    "x": 287,
+                    "y": 1964,
+                    "w": 108,
+                    "h": 47,
+                    "original_width": 1654,
+                    "original_height": 2339
+                }
+            }
+        ]
+    }
+]

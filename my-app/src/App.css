@@ -1,0 +1,340 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+  
+}
+
+
+body {
+  font-family: "Lama Sans", sans-serif !important;
+  background-color: white !important; /* يجعل الخلفية بيضاء تمامًا */
+}
+
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.hero-section {
+  background: linear-gradient(-45deg, #0A192F, #1B2A4E, #375991, #0A192F);
+  background-size: 300% 300%;
+  animation: gradientAnimation 10s ease infinite;
+  height: 500px; /* ارتفاع مناسب */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+
+.hero-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 30, 20, 0.6); /* طبقة شفافة لتنعيم الألوان */
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  padding: 20px;
+}
+
+.hero-title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.hero-subtitle {
+  font-size: 18px;
+  opacity: 0.9;
+}
+
+.file-upload-container {
+  position: absolute;
+  top: 100%; /* يضبط موقع البوكس ليكون أقرب للـ hero section */
+  left: 50%;
+  transform: translate(-50%, -50%); /* يحافظ على تمركز العنصر */
+  width: 100%;
+  max-width: 400px;
+  z-index: 10; /* يجعل البوكس فوق كل العناصر */
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  border-radius: 12px;
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.file-upload-container .border {
+  transition: all 0.3s ease;
+}
+
+.file-upload-container .border-primary {
+  border-color: #13836E !important;
+  background-color: rgba(19, 131, 110, 0.1);
+}
+
+.btn-primary {
+  background-color: #13836E !important;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #0e6b57 !important;
+  box-shadow: 0px 4px 10px rgba(19, 131, 110, 0.2);
+}
+
+.navbar {
+  background-color: rgb(22, 114, 102); /* لون الشريط العلوي */
+  transition: all 0.3s ease-in-out;
+  direction: ltr; /* ✅ يضمن أن القائمة تبدأ من اليسار إلى اليمين */
+
+}
+
+.navbar .nav-link {
+  color: white !important;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+.navbar .nav-link:hover {
+  color: #FFD700 !important; /* لون ذهبي عند التحويم */
+}
+.navbar-nav {
+  direction: rtl; /* ✅ يجعل العناصر العربية تبقى في الجهة الصحيحة */
+  text-align: right; /* ✅ يضمن محاذاة النصوص بشكل سليم */
+}
+
+.file-upload-container h4 {
+  color: rgb(4, 24, 49) !important; /* تغيير لون العنوان إلى الأسود */
+}
+
+.file-upload-container p.text-success {
+  color: #1B2A4E !important; /* كحلي داكن */
+  font-weight: bold; /* لجعل النص أكثر وضوحًا */
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+
+/* ✅ تحسين تصميم الصفحة */
+.review-container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  font-family: "Lama Sans", sans-serif; /* توحيد الخط */
+  background-color: #f5f7fa; /* لون خلفية ناعم */
+}
+
+/* ✅ تحسين شريط التقدم */
+.progress-bar-container {
+  width: 100%;
+  height: 12px;
+  background: #e0e0e0;
+  border-radius: 6px;
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  background: linear-gradient(to right, #1B2A4E, #007bff);
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 6px;
+  transition: width 0.5s ease-in-out;
+  font-family: "Lama Sans", sans-serif;
+  line-height: 12px;
+  font-size: 14px;
+}
+
+/* ✅ تحسين تقسيم الصفحة */
+.review-split {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+/* ✅ تحسين الصندوقين للنص الأصلي والمستخرج */
+.review-box {
+  width: 48%;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: right;
+  direction: rtl;
+  border: 1px solid #ddd;
+  transition: transform 0.3s ease;
+}
+
+.review-box:hover {
+  transform: scale(1.02);
+}
+
+/* ✅ تحسين تنسيق العناوين داخل الصناديق */
+.review-box h3 {
+  color: #1B2A4E;
+  font-size: 22px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+/* ✅ تحسين النصوص المظللة */
+.low-confidence {
+  background: #d6c635;
+  padding: 3px 6px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.low-confidence:hover {
+  background: #ffdd00;
+}
+
+/* ✅ تحسين نافذة الاقتراحات */
+.suggestion-box {
+  position: absolute;
+  background: white;
+  padding: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  z-index: 1000;
+  font-family: "Lama Sans", sans-serif;
+  animation: fadeIn 0.3s ease-in-out;
+  border: 1px solid #ddd;
+}
+
+.suggestion-box ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.suggestion-box li {
+  padding: 8px;
+  cursor: pointer;
+  background: #007bff;
+  color: white;
+  margin: 5px 0;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.suggestion-box li:hover {
+  background: #0056b3;
+}
+
+/* ✅ تحسين الأزرار */
+.review-btn {
+  background: #1B2A4E;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-size: 16px;
+  font-family: "Lama Sans", sans-serif;
+}
+
+.review-btn:hover {
+  background: #23395D;
+  transform: scale(1.05);
+}
+
+/* ✅ تحسين أزرار التنقل */
+.navigation {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.navButton {
+  padding: 12px 24px;
+  border-radius: 8px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  transition: 0.3s ease;
+  font-size: 16px;
+}
+
+.navButton:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.navButton:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* ✅ أنيميشن لنوافذ الاقتراحات */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
