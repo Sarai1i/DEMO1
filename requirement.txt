@@ -1,6 +1,0 @@
-flask
-numpy
-pandas
-pdf2image
-pytesseract
-pillow
